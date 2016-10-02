@@ -1,0 +1,1 @@
+This is my submission for the second project in the Udacity "Front End Web Developer" course.

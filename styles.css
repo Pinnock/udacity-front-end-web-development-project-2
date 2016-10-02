@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.card {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid lightgray;
+    box-shadow: 10px 10px  10px lightgray;
+    background-color: lightblue;
+}
+
+.card-name { 
+    padding-bottom: 15px; 
+}
+
+.card-image { 
+    width: 300px; 
+    padding-bottom: 15px; 
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px;
+}
+
+.card-info { 
+    padding: 10px; 
+    border: 1px solid lightgray; 
+    background-color: beige; 
+    border-bottom-left-radius: 10px; 
+    border-bottom-right-radius: 10px;
+}
+
+.card-info-desc { 
+    padding-bottom: 15px;
+}
+
+.card-info-fact { 
+    font-style: italic; 
+    padding-bottom: 15px; 
+}
+
+.card-info-list { 
+    padding-left: 0px;
+    list-style-type: none; 
+    padding-bottom: 15px; 
+ }
+
+.card-info-list-item-label { 
+    font-weight: bolder; 
+}
